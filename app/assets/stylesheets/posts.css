@@ -1,0 +1,11 @@
+.post{
+  border-radius: 5px;
+  border: 1px solid none;
+  width: 40%;
+  margin-top :30px;
+  background-color: #DFDFDF;
+}
+
+.post-date{
+  color:yellowgreen;
+}
